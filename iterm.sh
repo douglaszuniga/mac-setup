@@ -19,7 +19,7 @@ brew install zsh-completions
 rm -f ~/.zshrc
 
 # installing prezto
-git clone --recursive https://github.com/sorin-ionescu/prezto.git “${ZDOTDIR:-$HOME}/.zprezto”
+git clone --recursive https://github.com/sorin-ionescu/prezto.git "${ZDOTDIR:-$HOME}/.zprezto"
 
 # generating the configuration files
 #setopt EXTENDED_GLOB

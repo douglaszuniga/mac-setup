@@ -21,19 +21,18 @@ source "$HOME/.sdkman/bin/sdkman-init.sh"
 sdk version
 
 # installing JDK7
-sdk install java 7.0.181-zulu
+# sdk install java 7.0.181-zulu
 # installing JDK8
-sdk install java 8.0.201-oracle
+# sdk install java 8.0.201-oracle
 # installing JDK9
-sdk install java 9.0.4-open
+# sdk install java 9.0.4-open
 # installing JDK11
-sdk install java 11.0.2-open
+# sdk install java 11.0.2-open
 # installing JDK12
-sdk install java 12.0.0-open
+# sdk install java 12.0.0-open
 
 # set JDK8 as default
-sdk default java 8.0.201-oracle
-
+# sdk default java 8.0.201-oracle
 
 # installing lastest version of scala
-sdk install scala
+# sdk install scala
